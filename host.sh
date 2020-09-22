@@ -3,9 +3,9 @@
 # Host | Version - 2.0
 # Expose Your LocalHost
 #-------------------------------
-# Created By TAHMID RAYAT
-# Github : https://github.com/htr-tech
-# Instagram : https://www.instagram.com/tahmid.rayat
+# Created By NOUMAN AZIZ
+# Github : https://github.com/NFT005
+# Facebook : Nouman aziz
 #-----------------------------------------------------
 
 # If you Copy Then Give me The Credits
@@ -57,7 +57,7 @@ printf "\e[1;33m ██╔══██║██║░░██║░╚═══
 printf "\e[1;33m ██║░░██║╚█████╔╝██████╔╝░░░██║░░░ \e[0m\n"
 printf "\e[1;33m ╚═╝░░╚═╝░╚════╝░╚═════╝░░░░╚═╝░░░ \e[0m\n"
 printf "\n"
-printf "\e[1;31m [\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;32m Created By HTR-TECH \e[0m\e[1;31m(\e[0m\e[1;33mTahmid Rayat\e[0m\e[1;31m)\e[0m\n"
+printf "\e[1;31m [\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;32m Created By NOUMAN AZIZ \e[0m\e[1;31m(\e[0m\e[1;33mNOUMAN AZIZ\e[0m\e[1;31m)\e[0m\n"
 printf "\n"
 }
 menu(){
